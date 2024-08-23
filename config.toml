@@ -1,6 +1,6 @@
 baseURL = "https://freebijli.com"
 languageCode = "en-us"
-theme = "free-theme"
+
 
 # Plugins
 [params.plugins]
