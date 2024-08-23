@@ -20,16 +20,16 @@ showcase:
       URL: "https://www.linkedin.com/company/freebijli/"
 
     # - icon: "github"
-    #   URL: "https://github.com/radity"
+    #   URL: "https://github.com/freebijli"
 
     - icon: "twitter"
       URL: "https://x.com/freebijli"
 
     # - icon: "dribbble"
-    #   URL: "https://dribbble.com/radity"
+    #   URL: "https://dribbble.com/freebijli"
 
     # - icon: "behance"
-    #   URL: "https://www.behance.net/radity-digital"
+    #   URL: "https://www.behance.net/freebijli"
 
     - icon: "youtube"
       URL: "https://www.youtube.com/@FreeBijli"
@@ -91,7 +91,7 @@ experience:
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/company/radity/"
+    URL: "https://www.linkedin.com/company/freebijli/"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
@@ -99,7 +99,7 @@ experience:
 
   items:
     - title: "Sr. Front-End Developer"
-      company: "Radity"
+      company: "FreeBijli"
       duration: "Feb 2011 - Sep 2019"
 
     - title: "Sr. Front-End Developer"
@@ -147,15 +147,15 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Radity Finance - UI Kit"
+    - title: "FreeBijli Finance - UI Kit"
       description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "#"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: "img/works/freebijli-finance.jpg"
+        _2x: "img/works/freebijli-finance@2x.jpg"
       is_even: true
 
     - title: "Swiss Fintech Website"
@@ -211,7 +211,8 @@ contact:
   enable: true
   title: "Contact"
   form:
-    action: "#"
+    action: "https://formsubmit.co/care.freebijli@gmail.com"
+    method: "POST"
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
