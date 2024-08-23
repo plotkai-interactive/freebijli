@@ -117,34 +117,26 @@ client_and_work:
 
   clients:
     - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
+        x: "img/clients/tata.png"
+        _2x: "img/clients/tata.png"
+      alt: "Tata Solar"
 
     - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
+        x: "img/clients/adani.png"
+        _2x: "img/clients/adani.png"
+      alt: "Adani"
 
     - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
+        x: "img/clients/luminous.png"
+        _2x: "img/clients/luminous.png"
+      alt: "Luminous"
 
     - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
+        x: "img/clients/saatvik-3.png"
+        _2x: "img/clients/saatvik-3.png"
+      alt: "Saatvik"
 
-    - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
 
-    - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
 
   works:
     - title: "FreeBijli Finance - UI Kit"
