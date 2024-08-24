@@ -5,10 +5,10 @@ showcase:
   subtitle: "Free Bijli"
   description: "At Free Bijli, we make solar energy affordable by offering installations at the same EMI cost as your electricity bill. Save money and the environment with hassle-free solar solutions today!"
   image:
-    x: "img/showcase/image.png"
-    _2x: "img/showcase/image.png"
+    x: "img/showcase/image.jpg"
+    _2x: "img/showcase/image.jpg"
   imageMobile:
-    x: "img/showcase/image.png"
+    x: "img/showcase/image.jpg"
 
   button:
     icon: "icon-mail-fill"
@@ -64,8 +64,8 @@ about:
     </p>'
   button:
     icon: "icon-smile-fill"
-    btnText: "About Us"
-    URL: "https://www.linkedin.com/company/freebijli/"
+    btnText: "Contact Us"
+    URL: "https://wa.me/919663310126"
   image:
     x: "img/who-am-i/team.jpg"
     _2x: "img/who-am-i/team.jpg"
