@@ -14,7 +14,7 @@ showcase:
 
   button:
     icon: "icon-mail-fill"
-    btnText: "Contact"
+    btnText: "Contact Us"
     URL: "https://wa.me/919663310126"
 
   socialLinks:
@@ -137,6 +137,16 @@ client_and_work:
         x: "img/clients/saatvik-3.png"
         _2x: "img/clients/saatvik-3.png"
       alt: "Saatvik"
+
+    - logo:
+        x: "img/clients/waree.png"
+        _2x: "img/clients/waree.png"
+      alt: "Waree"
+
+    - logo:
+        x: "img/clients/vikram.png"
+        _2x: "img/clients/vikram.png"
+      alt: "Vikram"
 
 
 
